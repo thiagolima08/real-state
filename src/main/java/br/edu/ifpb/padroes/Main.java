@@ -30,6 +30,5 @@ public class Main {
         paymentService.pay(bungalow);
         paymentService.pay(tenament);
 
-
     }
 }
